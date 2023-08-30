@@ -186,7 +186,22 @@
         width="40"
         height="40"
       />
+    </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"  title="php">
+      <img
+        src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"
+        alt="AWS"
+        width="40"
+        height="40"
+      />
     </a> 
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"  title="Laravel">
+      <img
+        src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"
+        alt="AWS"
+        width="40"
+        height="40"
+      />
+    </a>
 
  </p>
 
