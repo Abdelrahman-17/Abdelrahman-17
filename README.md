@@ -1,5 +1,5 @@
 - 👋 # Hi, I’m **Abdelrahman Awad** – DevOps & Cloud Engineer
-- 🌱 I’m interested in DevOps</h3>
+- I specialize in building **CI/CD pipelines**, automating environments with **Terraform & Ansible**, and deploying containerized applications using **Docker & Kubernetes**.
 - 📫 How to reach me **abdoawadm123@gmail.com**
 
 [![LinkedIn](https://github.com/omarmfathy219/omarmfathy219/blob/master/linkedin.png)](https://www.linkedin.com/in/abdelrahman-awad-5b246a202/)
